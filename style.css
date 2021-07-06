@@ -1,0 +1,155 @@
+body {
+    font-family: 'Padauk', sans-serif;
+}
+
+#head-line {
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    text-transform: capitalize;
+    text-shadow: 3px 2px #b8b3b3;
+}
+
+#first-section {
+    padding-bottom: 60px;
+
+
+}
+
+.first-content-img {
+    display: flex;
+    padding: 2%;
+}
+
+.content {
+    width: 50%;
+    padding: 20px;
+    margin-left: 15px;
+}
+
+.content h1 {
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.content p {
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.content a {
+    background-image: linear-gradient(90deg, tomato, orange);
+    text-decoration: none;
+    font-size: 30px;
+    border-radius: 27px;
+    padding: 8px 24px;
+    color: white;
+}
+
+.image {
+    width: 50%;
+    padding: 20px;
+    margin-left: 15px;
+    background-image: url(/shapes/Group\ 8450.png);
+    background-size: cover;
+}
+
+.image img {
+    width: 100%;
+}
+
+.word-color {
+    color: rgb(255, 99, 71);
+}
+
+.second-section {
+    background-image: url(/shapes/7.png);
+    display: flex;
+    padding: 0px 48px;
+
+}
+
+
+.background img {
+
+    width: 50%;
+}
+.third-section{
+    padding-bottom: 100px
+}
+.third-header{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bolder;
+
+
+}
+.third-para{
+    text-align: center;font-size:24px;
+    font-weight: 400;
+    padding-left: 250px;
+    padding-right: 250px;
+
+}
+.recipi-block{
+    display: flex;
+    padding: 1%;
+}
+.recipi{
+    
+    border-radius: 31px;
+    width: 30%;
+    padding: 33px;
+    margin: 42px;
+    box-shadow: 4px 3px 19px grey;
+}
+.recipi img{
+    width: 100%;
+}
+.recipi h1{
+    font-size: 30px;
+    font-weight: 900;
+}
+.recipi p{
+    font-size: 20px;
+}
+.forth-section{
+ 
+    box-shadow: 1px 2px 6px grey;
+    display: flex;
+    margin: 0px 154px;
+    border-radius: 17px;
+    text-align: center;
+}
+.follower{
+    width: 30%;
+}
+.follower h1{
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: -12px;
+}
+.follower p{
+    font-size: 24px;
+
+}
+.footer{
+    padding-bottom: 100px;
+    margin-top: 74px;
+    text-align: center;
+    background-color: black;
+}
+.footer span{
+    color: orange;
+}
+.footer h1{
+    padding-top: 40px;
+    font-size: 50px;
+    color: grey;
+    font-weight: bolder;
+}
+.footer p{
+    color: rgb(243, 239, 239);
+    font-size: 20px;
+}
