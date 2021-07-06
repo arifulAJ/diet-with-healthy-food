@@ -51,7 +51,7 @@ body {
     width: 50%;
     padding: 20px;
     margin-left: 15px;
-    background-image: url(/shapes/Group\ 8450.png);
+    background-image: url(shapes/Group\ 8450.png);
     background-size: cover;
 }
 
@@ -64,7 +64,7 @@ body {
 }
 
 .second-section {
-    background-image: url(/shapes/7.png);
+    background-image: url(shapes/7.png);
     display: flex;
     padding: 0px 48px;
 
